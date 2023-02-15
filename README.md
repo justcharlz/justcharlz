@@ -4,7 +4,21 @@ Hi 👋 My name is Charles Okaformbah
 Solutions Architect
 -------------------
 
-Charles is a Blockchain Solutions Architect and consultant on CBDC, asset tokenization, and enterprise software application development with deep knowledge and hands-on experience on decentralized applications, tokenization and cryptocurrencies, smart contracts development on public or enterprise-use case blockchains, and ethereum virtual machine compatible protocols with 14 years of technology and startup experience on; - application architecting - cryptography and data encryption - microservices - enterprise software applications development - business requirement documents - software requirement specifications - functional requirement specifications - technical team/project management - devOps - cloud solution architecture - wallet infrastructure. Also passionate about the Internet-of-Things(IoT) security risk management and vulnerability assessment, cloud computing, artificial intelligence on the cloud, and seeing ideas that have established 'proof of concept' and value propositions come to life. A goal-driven individual with a passion for productivity and human development, fun-loving and entrepreneurship-driven.
+Charles is a Blockchain Solutions Architect and consultant on CBDC, asset tokenization, and enterprise software application development with deep knowledge and hands-on experience on decentralized applications, tokenization and cryptocurrencies, smart contracts development on public or enterprise-use case blockchains, and ethereum virtual machine compatible protocols with 14 years of technology and startup experience on;
+
+* application architecting 
+* cryptography and data encryption 
+* microservices 
+* enterprise software applications development
+* business requirement documents 
+* software requirement specifications 
+* functional requirement specifications 
+* technical team/project management 
+* devOps 
+* cloud solution architecture 
+* wallet infrastructure. 
+
+Also passionate about the Internet-of-Things(IoT) security risk management and vulnerability assessment, cloud computing, artificial intelligence on the cloud, and seeing ideas that have established 'proof of concept' and value propositions come to life. A goal-driven individual with a passion for productivity and human development, fun-loving and entrepreneurship-driven.
 
 * 🌍  I'm based in Remote/Decentralized
 * ✉️  You can contact me at [charlie4biz@gmail.com](mailto:charlie4biz@gmail.com)

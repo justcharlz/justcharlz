@@ -4,7 +4,7 @@ Hi 👋 My name is Charles Okaformbah
 Solutions Architect
 -------------------
 
-Charles is a Blockchain Solutions Architect and consultant on CBDC, asset tokenization, and enterprise software application development with deep knowledge and hands-on experience on decentralized applications, tokenization and cryptocurrencies, smart contracts development on public or enterprise-use case blockchains, and ethereum virtual machine compatible protocols with 16 years of technology and startup experience on;
+Charles is a Blockchain Solutions Architect and consultant on CBDC, asset tokenization, cloud computing and enterprise software application development with deep knowledge and hands-on experience on decentralized applications, tokenization and cryptocurrencies, smart contracts development on public or enterprise-use case blockchains, and ethereum virtual machine compatible protocols with 16 years of technology and startup experience on;
 
 * application architecting 
 * cryptography and data encryption 

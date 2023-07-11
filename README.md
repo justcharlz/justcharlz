@@ -4,19 +4,19 @@ Hi 👋 My name is Charles Okaformbah
 Solutions Architect
 -------------------
 
-Charles is a Blockchain Solutions Architect and consultant on CBDC, asset tokenization, cloud computing and enterprise software application development with deep knowledge and hands-on experience on decentralized applications, tokenization and cryptocurrencies, smart contracts development on public or enterprise-use case blockchains, and ethereum virtual machine compatible protocols. He has 16 years of technology and startup experience on;
-
-* application architecting 
-* cryptography and data encryption 
-* microservices 
-* enterprise software applications development
-* business requirement documents 
-* software requirement specifications 
-* functional requirement specifications 
-* technical team/project management 
-* devOps 
-* cloud solution architecture 
-* wallet infrastructure. 
+Charles is a Cloud Engineer and Blockchain Solutions Architect(EVMs, Hyperledger Fabrics|Sawtooth|Besu, Hedera Hashgrasph, Quorum, Bantu, Algorand, Arweave, IPFS), a consultant on CBDC, asset tokenization, enterprise cloud solution, and big data management. He has deep knowledge and hands-on experience in decentralized applications, tokenization, cryptocurrencies, smart contracts development on public or enterprise-use case blockchains, and ethereum virtual machine-compatible protocols. He has 16 years of technology and startup experience on;
+* software architecting
+* containerization
+* infrastructure orchestration
+* cryptography and data encryption
+* microservices
+* enterprise software development 
+* business requirement documents
+* functional requirement specifications
+* technical team/project management
+* devOps
+* cloud solution architecture
+* legacy and cryptographic wallet infrastructure(custodial and non-custodial). 
 
 Also passionate about security risk management and vulnerability assessment of Internet-of-Things(IoT), artificial intelligence on the cloud, and seeing ideas that have established 'proof of concept' and value propositions come to life. A goal-driven individual with a passion for productivity and human development, fun-loving and entrepreneurship-driven.
 
